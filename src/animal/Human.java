@@ -9,7 +9,7 @@ public class Human extends Animal implements Thinkable {
 
     }
     public void think() {
-        System.out.println("私は" + hobby + "について考えています");
+        System.out.println("私は" + hobby + "について考えています。");
 
 
     }
